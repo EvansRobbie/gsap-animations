@@ -85,7 +85,7 @@ const Typo = () => {
         <h2 className='content_title text-[8vw] leading-[0.8] text-center grid gap-8'>
           <span className='uppercase target' id='target'> DREAM BIG</span>
           <span className='uppercase target'>NEVER SETTLE</span>
-          <span className='uppercase target mb-[100px]'>NEVER QUIT</span>
+          <span className='uppercase target mb-[100px]'>& NEVER QUIT</span>
         </h2>
       </div>
       <div className='flex flex-col w-screen relative px-8 py-6 mb-[350px]'>
