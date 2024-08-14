@@ -23,3 +23,21 @@
   margin-bottom: 10vh;
   text-align: center;
 }
+.section_title {
+  font-size: clamp(2rem, 17vw, 12.5rem);
+  margin: 5vh 0 6vh;
+  line-height: 0.9;
+  text-transform: none;
+}
+
+.column-wrap:nth-child(even) {
+  margin-top: 20vh;
+}
+
+.col_img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+  will-change: transform;
+}
